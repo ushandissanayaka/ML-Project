@@ -1,0 +1,36 @@
+2026-02-21 03:32:10,295 [INFO] Loading raw data from 'data\raw\mobile_data_raw.csv' ...
+2026-02-21 03:32:10,345 [INFO]   Loaded 5,027 rows, 10 columns
+2026-02-21 03:32:10,347 [INFO]   Duplicates removed: 0
+2026-02-21 03:32:10,384 [INFO]   Rows without price dropped: 8
+2026-02-21 03:32:10,384 [INFO]   Out-of-range price rows dropped: 0
+2026-02-21 03:32:10,405 [INFO] Preprocessing complete.
+2026-02-21 03:32:10,405 [INFO]   Final record count : 5,019
+2026-02-21 03:32:10,405 [INFO]   Columns            : ['id', 'title', 'price', 'currency', 'location', 'condition', 'brand', 'date_posted', 'url', 'scraped_at', 'price_range', 'is_brand_new', 'title_length']
+2026-02-21 03:32:10,405 [INFO]   Saved to           : 'data\processed\mobile_data_processed.csv'
+2026-02-21 09:36:57,768 [INFO] Loading raw data from 'data\raw\mobile_data_raw.csv' ...
+2026-02-21 09:36:57,781 [INFO]   Loaded 5,027 rows, 10 columns
+2026-02-21 09:36:57,783 [INFO]   Duplicates removed: 0
+2026-02-21 09:36:57,818 [INFO]   Rows without price dropped: 8
+2026-02-21 09:36:57,819 [INFO]   Out-of-range price rows dropped: 0
+2026-02-21 09:36:57,862 [INFO] Preprocessing complete.
+2026-02-21 09:36:57,862 [INFO]   Final record count : 5,019
+2026-02-21 09:36:57,862 [INFO]   Columns            : ['id', 'title', 'price', 'currency', 'location', 'condition', 'brand', 'date_posted', 'url', 'scraped_at', 'price_range', 'is_brand_new', 'title_length', 'ram_gb', 'storage_gb']
+2026-02-21 09:36:57,862 [INFO]   Saved to           : 'data\processed\mobile_data_processed.csv'
+2026-02-21 09:52:42,238 [INFO] Loading raw data from 'data\raw\mobile_data_raw.csv' ...
+2026-02-21 09:52:42,250 [INFO]   Loaded 5,027 rows, 10 columns
+2026-02-21 09:52:42,252 [INFO]   Duplicates removed: 0
+2026-02-21 09:52:42,288 [INFO]   Rows without price dropped: 8
+2026-02-21 09:52:42,289 [INFO]   Out-of-range price rows dropped: 0
+2026-02-21 09:52:42,331 [INFO] Preprocessing complete.
+2026-02-21 09:52:42,331 [INFO]   Final record count : 5,019
+2026-02-21 09:52:42,331 [INFO]   Columns            : ['id', 'title', 'price', 'currency', 'location', 'condition', 'brand', 'date_posted', 'url', 'scraped_at', 'price_range', 'is_brand_new', 'title_length', 'ram_gb', 'storage_gb']
+2026-02-21 09:52:42,331 [INFO]   Saved to           : 'data\processed\mobile_data_processed.csv'
+2026-02-21 11:07:28,718 [INFO] Loading raw data from 'data\raw\mobile_data_raw.csv' ...
+2026-02-21 11:07:28,730 [INFO]   Loaded 5,090 rows, 10 columns
+2026-02-21 11:07:28,731 [INFO]   Duplicates removed: 0
+2026-02-21 11:07:28,824 [INFO]   Rows without price dropped: 8
+2026-02-21 11:07:28,825 [INFO]   Out-of-range price rows dropped: 0
+2026-02-21 11:07:28,878 [INFO] Preprocessing complete.
+2026-02-21 11:07:28,878 [INFO]   Final record count : 5,082
+2026-02-21 11:07:28,878 [INFO]   Columns            : ['id', 'title', 'price', 'currency', 'location', 'condition', 'brand', 'date_posted', 'url', 'scraped_at', 'brand_version', 'price_range', 'is_brand_new', 'title_length', 'ram_gb', 'storage_gb']
+2026-02-21 11:07:28,878 [INFO]   Saved to           : 'data\processed\mobile_data_processed.csv'

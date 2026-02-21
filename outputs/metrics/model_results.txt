@@ -1,0 +1,29 @@
+============================================================
+  UPGRADED MOBILE PRICE MODEL — RESULTS (with Log Transform)
+============================================================
+
+  Model : Ridge Regression
+  MAE   :       42,283 LKR
+  RMSE  :       64,432 LKR
+  R2    :       0.4267
+  Log-R2:       0.4922
+
+  Model : Random Forest
+  MAE   :       13,764 LKR
+  RMSE  :       28,130 LKR
+  R2    :       0.8907
+  Log-R2:       0.8281
+
+  Model : XGBoost  * BEST
+  MAE   :       15,421 LKR
+  RMSE  :       28,412 LKR
+  R2    :       0.8885
+  Log-R2:       0.8360
+
+  Model : LightGBM
+  MAE   :       16,137 LKR
+  RMSE  :       30,764 LKR
+  R2    :       0.8693
+  Log-R2:       0.8353
+
+============================================================
